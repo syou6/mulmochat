@@ -126,9 +126,12 @@ export function useRealtimeSession(
         handlers.onError?.(msg.error);
         break;
       case "response.text.delta":
+      case "response.output_text.delta":
         handlers.onTextDelta?.(msg.delta ?? "");
         break;
       case "response.completed":
+      case "response.text.done":
+      case "response.output_text.done":
         handlers.onTextCompleted?.();
         break;
       case "response.function_call_arguments.delta":

@@ -1,0 +1,43 @@
+{
+  "title": "ことばをたんけん！",
+  "description": "ことばのテストのぺーじをみてみよう！",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "これ、なんだかしってる？",
+      "options": [
+        "ぺんぎん",
+        "ぺーじ",
+        "ぺん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "これはテストのぺーじだよ。",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "question": "こんにちは、_____！",
+      "options": [],
+      "correctAnswer": "みんな",
+      "explanation": "みんなとあいさつしよう！",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "これはテストの_____だよ。",
+      "options": [
+        "ほん",
+        "ぺーじ",
+        "えほん"
+      ],
+      "correctAnswer": 1,
+      "explanation": "テストのぺーじをみてね！",
+      "difficulty": "easy"
+    }
+  ],
+  "ageGroup": "preschool",
+  "totalQuestions": 3
+}

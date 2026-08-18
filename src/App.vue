@@ -2,7 +2,7 @@
   <div class="p-4 space-y-4">
     <div role="toolbar" class="flex justify-between items-center">
       <h1 class="text-2xl font-bold">
-        MulmoChat
+        まなびのカタチ
         <span class="text-sm text-gray-500 font-normal">{{ statusLine }}</span>
       </h1>
       <div class="flex gap-2">

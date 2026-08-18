@@ -1,0 +1,47 @@
+{
+  "title": "どうぶつたちのふしぎ",
+  "description": "どうぶつたちのふしぎをさがしてみよう！",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "しまうまのもようはどんなかな？",
+      "options": [
+        "しましま",
+        "まるまる",
+        "さんかく"
+      ],
+      "correctAnswer": 0,
+      "explanation": "しまうまのもようはしましまです！",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "ちょうちょのはねはどうしておなじかたち？",
+      "options": [
+        "まほう",
+        "ふしぎ",
+        "たべもの"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ちょうちょのはねがおなじかたちはふしぎだね！",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "question": "ありさんたちは________おさんぽ。",
+      "options": [
+        "ならんで",
+        "とんで",
+        "はしって"
+      ],
+      "correctAnswer": "ならんで",
+      "explanation": "ありさんたちはならんでおさんぽするよ。",
+      "difficulty": "easy"
+    }
+  ],
+  "ageGroup": "preschool",
+  "totalQuestions": 3
+}
